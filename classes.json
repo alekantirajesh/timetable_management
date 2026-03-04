@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "69a2c05d084924274b68af1f",
+    "id": 9,
+    "name": "Class 9",
+    "label": "9",
+    "created_at": "2026-02-28T10:15:57.811673"
+  },
+  {
+    "_id": "69a2c05d084924274b68af20",
+    "id": 10,
+    "name": "Class 10",
+    "label": "10",
+    "created_at": "2026-02-28T10:15:57.811673"
+  },
+  {
+    "_id": "69a2c4299dcee1ae9058fbc7",
+    "id": 6,
+    "name": "Class 6",
+    "label": "Class 6",
+    "created_at": "2026-02-28T10:32:09.240371"
+  },
+  {
+    "_id": "69a2c4299dcee1ae9058fbc8",
+    "id": 7,
+    "name": "Class 7",
+    "label": "Class 7",
+    "created_at": "2026-02-28T10:32:09.243416"
+  },
+  {
+    "_id": "69a2c4299dcee1ae9058fbc9",
+    "id": 8,
+    "name": "Class 8",
+    "label": "Class 8",
+    "created_at": "2026-02-28T10:32:09.246416"
+  }
+]

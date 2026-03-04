@@ -1,0 +1,13 @@
+[
+  {
+    "_id": "69a5d52403ccbec2fb0ebb9e",
+    "faculty_id": 100,
+    "faculty_name": "rajesh",
+    "date": "2026-03-12",
+    "reason": "hi",
+    "status": "pending",
+    "requested_at": "2026-03-02T23:51:24.300081",
+    "admin_action_at": null,
+    "admin_notes": ""
+  }
+]

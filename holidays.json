@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "699a9a09a97947a5e86d96a6",
+    "date": "2026-01-26",
+    "name": "Republic Day"
+  },
+  {
+    "_id": "699a9a09a97947a5e86d96a7",
+    "date": "2026-03-08",
+    "name": "Maha Shivaratri"
+  },
+  {
+    "_id": "699a9a09a97947a5e86d96a8",
+    "date": "2026-03-25",
+    "name": "Holi"
+  },
+  {
+    "_id": "699a9a09a97947a5e86d96a9",
+    "date": "2026-04-02",
+    "name": "Good Friday"
+  },
+  {
+    "_id": "699a9a09a97947a5e86d96aa",
+    "date": "2026-04-14",
+    "name": "Ambedkar Jayanti"
+  },
+  {
+    "_id": "699a9a09a97947a5e86d96ab",
+    "date": "2026-05-01",
+    "name": "Labour Day"
+  },
+  {
+    "_id": "699a9a09a97947a5e86d96ac",
+    "date": "2026-08-15",
+    "name": "Independence Day"
+  },
+  {
+    "_id": "699a9a09a97947a5e86d96ad",
+    "date": "2026-09-16",
+    "name": "Milad-un-Nabi"
+  },
+  {
+    "_id": "699a9a09a97947a5e86d96ae",
+    "date": "2026-10-02",
+    "name": "Gandhi Jayanti"
+  },
+  {
+    "_id": "699a9a09a97947a5e86d96af",
+    "date": "2026-10-24",
+    "name": "Diwali"
+  },
+  {
+    "_id": "699a9a09a97947a5e86d96b0",
+    "date": "2026-11-01",
+    "name": "Diwali (Govardhan Puja)"
+  },
+  {
+    "_id": "699a9a09a97947a5e86d96b1",
+    "date": "2026-12-25",
+    "name": "Christmas"
+  },
+  {
+    "_id": "699a9a09a97947a5e86d96b2",
+    "date": "2026-02-25",
+    "name": "hello",
+    "id": 12
+  }
+]

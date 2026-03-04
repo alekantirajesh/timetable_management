@@ -1,0 +1,61 @@
+{
+  "timestamp": "2026-03-04T23:07:44.445361",
+  "database": "timetable_management",
+  "collections": {
+    "users": {
+      "status": "success",
+      "count": 58,
+      "file": "data\\migrations\\20260304_230744\\users.json"
+    },
+    "faculty": {
+      "status": "success",
+      "count": 26,
+      "file": "data\\migrations\\20260304_230744\\faculty.json"
+    },
+    "students": {
+      "status": "success",
+      "count": 50,
+      "file": "data\\migrations\\20260304_230744\\students.json"
+    },
+    "subjects": {
+      "status": "success",
+      "count": 8,
+      "file": "data\\migrations\\20260304_230744\\subjects.json"
+    },
+    "classes": {
+      "status": "success",
+      "count": 5,
+      "file": "data\\migrations\\20260304_230744\\classes.json"
+    },
+    "time_slots": {
+      "status": "success",
+      "count": 0,
+      "file": "data\\migrations\\20260304_230744\\time_slots.json"
+    },
+    "timetables": {
+      "status": "success",
+      "count": 2940,
+      "file": "data\\migrations\\20260304_230744\\timetables.json"
+    },
+    "leaves": {
+      "status": "success",
+      "count": 1,
+      "file": "data\\migrations\\20260304_230744\\leaves.json"
+    },
+    "holidays": {
+      "status": "success",
+      "count": 13,
+      "file": "data\\migrations\\20260304_230744\\holidays.json"
+    },
+    "faculty_holidays": {
+      "status": "success",
+      "count": 0,
+      "file": "data\\migrations\\20260304_230744\\faculty_holidays.json"
+    },
+    "system_settings": {
+      "status": "success",
+      "count": 1,
+      "file": "data\\migrations\\20260304_230744\\system_settings.json"
+    }
+  }
+}

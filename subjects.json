@@ -1,0 +1,80 @@
+[
+  {
+    "_id": "699a9a09a97947a5e86d969e",
+    "id": 1,
+    "name": "Physics",
+    "classes": [
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  {
+    "_id": "699a9a09a97947a5e86d969f",
+    "id": 2,
+    "name": "Social",
+    "classes": [
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  {
+    "_id": "699a9a09a97947a5e86d96a0",
+    "id": 3,
+    "name": "Hindi",
+    "classes": [
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  {
+    "_id": "699a9a09a97947a5e86d96a1",
+    "id": 4,
+    "name": "English",
+    "classes": [
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  {
+    "_id": "699a9a09a97947a5e86d96a2",
+    "id": 5,
+    "name": "Mathematics",
+    "classes": [
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  {
+    "_id": "699a9a09a97947a5e86d96a3",
+    "id": 6,
+    "name": "Telugu",
+    "classes": [
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  {
+    "_id": "699a9a09a97947a5e86d96a4",
+    "id": 7,
+    "name": "biology",
+    "classes": [
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  {
+    "_id": "699a9a09a97947a5e86d96a5",
+    "id": 8,
+    "name": "AIML",
+    "classes": [
+      "8"
+    ]
+  }
+]
